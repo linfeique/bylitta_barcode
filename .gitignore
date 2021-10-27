@@ -1,0 +1,7 @@
+__pycache__
+build
+dist
+files
+images
+barcode-system.spec
+.DS_Store
