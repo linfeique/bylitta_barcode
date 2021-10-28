@@ -5,3 +5,4 @@ files
 images
 barcode-system.spec
 .DS_Store
+.vscode
